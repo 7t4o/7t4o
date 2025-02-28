@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from KSA</h3>
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Laravel PHP**
 
 - 💬 Ask me about **react, javascript**
 
